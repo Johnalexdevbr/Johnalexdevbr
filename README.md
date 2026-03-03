@@ -1,16 +1,63 @@
-## Hi there 👋
+# 👋 Olá, eu sou o John Alex
 
-<!--
-**Johnalexdevbr/Johnalexdevbr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor Full Stack  
+🎓 Estudante de Análise e Desenvolvimento de Sistemas  
+🏢 Experiência em suporte técnico e sistemas de PDV  
+📍 Brasil  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mim
+
+Sou desenvolvedor Full Stack com foco em aplicações web e desktop.
+Tenho experiência no desenvolvimento de sistemas de PDV utilizando:
+
+- Java + Spring Boot (Backend)
+- PostgreSQL (Banco de Dados)
+- JavaScript
+- Electron (Aplicação Desktop)
+- HTML5 e CSS3
+
+Também atuo com suporte técnico, infraestrutura e monitoramento de sistemas.
+
+---
+
+## 🛠️ Stack Principal
+
+### 🔹 Backend
+- Java
+- Spring Boot
+- REST APIs
+- JPA / Hibernate
+
+### 🔹 Frontend
+- HTML5
+- CSS3
+- JavaScript
+
+### 🔹 Banco de Dados
+- PostgreSQL
+
+### 🔹 Desktop
+- Electron
+- Node.js
+
+---
+
+## 📌 Projetos em Destaque
+
+🔹 Sistema PDV Web  
+Sistema de ponto de venda desenvolvido com Spring Boot + PostgreSQL.
+
+🔹 Sistema PDV Desktop  
+Versão desktop do sistema utilizando Electron integrado ao backend.
+
+---
+
+## 📫 Contato
+
+- LinkedIn: www.linkedin.com/in/john-alex-
+
+---
+
+⭐ Sempre buscando evoluir como desenvolvedor e construir soluções reais para o mercado.
