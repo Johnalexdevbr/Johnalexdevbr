@@ -1,25 +1,41 @@
 # 👋 Olá, eu sou o John Álex
 
-### Founder @ Nexus Tecnologia | Software Architecture & SaaS Developer
+### Founder @ Nexus Sistemas | Software Architecture & SaaS Developer
 
-Sou um desenvolvedor focado na construção de ecossistemas digitais escaláveis e de alta performance. Atualmente, curso **Análise e Desenvolvimento de Sistemas** e dedico minha expertise ao desenvolvimento de soluções robustas para o setor de automação comercial e tecnologia musical.
+Sou desenvolvedor focado na construção de ecossistemas digitais escaláveis e de alta performance. Curso **Análise e Desenvolvimento de Sistemas** e dedico minha expertise ao desenvolvimento de soluções robustas para automação comercial, bots de atendimento e tecnologia musical.
 
 ---
 
 ## 🚀 Projetos em Destaque
 
-### 🔹 [NexusPDV](https://github.com/Johnalexdevbr)
-Um ecossistema completo de Ponto de Venda (PDV) projetado para o modelo **SaaS Multi-tenant**.
-* **Arquitetura:** Isolamento de dados por cliente (Multi-tenancy).
-* **Backend:** Java + Spring Boot, com segurança via Spring Security.
-* **Interface Desktop:** UI moderna e performática desenvolvida em **JavaFX**.
-* **Cloud & Infra:** Deploy e gerenciamento via **Railway** com banco de dados **PostgreSQL**.
+### 🔹 [NexusPDV](https://github.com/Johnalexdevbr/nexuspdv-site) · [🌐 nexussistemasbr.com.br](https://nexussistemasbr.com.br)
+Ecossistema completo de Ponto de Venda (PDV) no modelo **SaaS Multi-tenant**.
+- **Arquitetura:** Isolamento de dados por cliente (Multi-tenancy)
+- **Backend:** Java + Spring Boot, segurança via Spring Security
+- **Interface Desktop:** UI moderna desenvolvida em **JavaFX**
+- **Cloud & Infra:** Railway + PostgreSQL
+- **Plano:** R$269,90/mês com suporte humanizado + IA + melhorias contínuas
 
-### 🔹 [Church Praise](https://github.com/Johnalexdevbr)
-Solução de Music Tech focada em performance para músicos profissionais.
-* **Core:** Algoritmo avançado de transposição de notas em tempo real.
-* **UX:** Interface otimizada para visibilidade em palcos e ambientes de baixa luminosidade.
-* **Stack:** JavaScript voltado para lógica de processamento síncrono.
+### 🔹 [Nexus Bot](https://github.com/Johnalexdevbr/nexusbot-site) · [🌐 bot.nexussistemasbr.com.br](https://bot.nexussistemasbr.com.br)
+Bot de atendimento automatizado para IPTV via **WhatsApp**, com gestão de clientes, pagamentos e renovações.
+- **Stack:** Node.js, whatsapp-web.js, SQLite
+- **Pagamentos:** Integração com Mercado Pago (PIX via API + Checkout Pro) e PIX manual fallback
+- **Funcionalidades:** Fluxo de contratação, comprovantes automáticos, webhook de confirmação de pagamento
+- **Painel admin:** Interface web com controle total do bot
+
+### 🔹 [Church Praise](https://github.com/Johnalexdevbr/church-praise) · [🌐 church.nexussistemasbr.com.br](https://church.nexussistemasbr.com.br)
+Solução de Music Tech para músicos profissionais em ambientes de performance ao vivo.
+- **Core:** Algoritmo de transposição de notas em tempo real
+- **UX:** Interface otimizada para palcos e ambientes de baixa luminosidade
+- **Stack:** Flutter (Dart) — multiplataforma
+
+### 🔹 [Smartlist](https://github.com/Johnalexdevbr/Smartlist)
+Aplicativo de gestão de listas e tarefas inteligentes.
+- **Stack:** Flutter (Dart)
+
+### 🔹 [Portfólio](https://github.com/Johnalexdevbr/portfolio) · [🌐 portfolio.nexussistemasbr.com.br](https://portfolio.nexussistemasbr.com.br)
+Site pessoal com apresentação de projetos, habilidades e trajetória profissional.
+- **Stack:** HTML, CSS, JavaScript
 
 ---
 
@@ -27,15 +43,16 @@ Solução de Music Tech focada em performance para músicos profissionais.
 
 | Categoria | Tecnologias |
 | :--- | :--- |
-| **Linguagens** | Java (17+), SQL, JavaScript |
-| **Backend** | Spring Boot, JPA/Hibernate, Spring Security |
-| **Desktop UI** | **JavaFX**, Scene Builder |
-| **Infra / Cloud** | **Railway**, PostgreSQL, Docker |
-| **Monitoramento** | Suporte técnico avançado e infraestrutura de sistemas |
+| **Linguagens** | Java (17+), JavaScript (Node.js), Dart, SQL |
+| **Backend** | Spring Boot, JPA/Hibernate, Spring Security, Express.js |
+| **Desktop / Mobile** | JavaFX, Flutter |
+| **Bots & Automação** | whatsapp-web.js, Mercado Pago API |
+| **Banco de Dados** | PostgreSQL, SQLite |
+| **Cloud & Infra** | Railway, Vercel, Nginx, Let's Encrypt |
 
 ---
 
-## 📊 Estatísticas e Atividade
+## 📊 Estatísticas GitHub
 
 <p align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Johnalexdevbr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
@@ -47,9 +64,10 @@ Solução de Music Tech focada em performance para músicos profissionais.
 ## 📫 Conecte-se comigo
 
 <p align="left">
-<a href="https://linkedin.com/in/john-alex-" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://wa.me/55SEUNUMERO" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-<a href="mailto:johnlex202020@icloud.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=icloud&logoColor=white" target="_blank"></a>
+<a href="https://linkedin.com/in/john-alex-" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://wa.me/5583998632702" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+<a href="mailto:jonha841@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://portfolio.nexussistemasbr.com.br" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
 ---
