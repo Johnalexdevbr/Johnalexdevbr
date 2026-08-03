@@ -13,8 +13,9 @@ Ecossistema completo de Ponto de Venda (PDV) no modelo **SaaS Multi-tenant**.
 - **Arquitetura:** Isolamento de dados por cliente (Multi-tenancy)
 - **Backend:** Java + Spring Boot, segurança via Spring Security
 - **Interface Desktop:** UI moderna desenvolvida em **JavaFX**
-- **Cloud & Infra:** Railway + PostgreSQL
-- **Plano:** R$269,90/mês com suporte humanizado + IA + melhorias contínuas
+- **Fiscal:** Emissão de NFC-e/NF-e com integração direta à SEFAZ (assinatura digital, XML layout 4.00, IBS/CBS da Reforma Tributária)
+- **Cloud & Infra:** AWS (Elastic Beanstalk) + PostgreSQL
+- **Plano:** Suporte humanizado + IA + melhorias contínuas
 
 ### 🔹 [Nexus Bot](https://github.com/Johnalexdevbr/nexusbot-site) · [🌐 bot.nexussistemasbr.com.br](https://bot.nexussistemasbr.com.br)
 Bot de atendimento automatizado para IPTV via **WhatsApp**, com gestão de clientes, pagamentos e renovações.
@@ -48,7 +49,7 @@ Site pessoal com apresentação de projetos, habilidades e trajetória profissio
 | **Desktop / Mobile** | JavaFX, Flutter |
 | **Bots & Automação** | whatsapp-web.js, Mercado Pago API |
 | **Banco de Dados** | PostgreSQL, SQLite |
-| **Cloud & Infra** | Railway, Vercel, Nginx, Let's Encrypt |
+| **Cloud & Infra** | AWS (Elastic Beanstalk, RDS), Railway, Vercel, Nginx, Let's Encrypt |
 
 ---
 
