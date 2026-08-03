@@ -34,6 +34,22 @@ Solução de Music Tech para músicos profissionais em ambientes de performance 
 Aplicativo de gestão de listas e tarefas inteligentes.
 - **Stack:** Flutter (Dart)
 
+### 🔹 [Psicoclin](https://github.com/Johnalexdevbr/psicoclin)
+Sistema de gestão para clínicas de psicologia — agenda, prontuário e portal do paciente integrados.
+- **Stack:** Node.js, Express, SQLite
+
+### 🔹 [Loja de Perfumes](https://github.com/Johnalexdevbr/loja-perfumes)
+Loja virtual sob medida para venda de perfumes e decants, com base reaproveitável para outros clientes de varejo.
+- **Stack:** Java + Spring Boot, Docker, deploy em Fly.io
+
+### 🔹 [Cadastro de Alunos](https://github.com/Johnalexdevbr/cadastro-de-alunos)
+Plataforma de gestão escolar para escola de informática — matrículas, turmas e controle de equipamentos.
+- **Stack:** Node.js, Express, SQLite
+
+### 🔹 [NexusMobile](https://github.com/Johnalexdevbr/nexus-mobile)
+App mobile complementar ao NexusPDV — donos e equipe acompanham dashboard, financeiro e comissões em tempo real.
+- **Stack:** Flutter (Dart), consome a API do backend NexusPDV
+
 ### 🔹 [Portfólio](https://github.com/Johnalexdevbr/portfolio) · [🌐 portfolio.nexussistemasbr.com.br](https://portfolio.nexussistemasbr.com.br)
 Site pessoal com apresentação de projetos, habilidades e trajetória profissional.
 - **Stack:** HTML, CSS, JavaScript
